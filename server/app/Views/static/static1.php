@@ -1,0 +1,1 @@
+<h1>static page 1</h1>
